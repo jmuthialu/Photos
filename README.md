@@ -2,6 +2,14 @@
 
 This is the first iteration of the Photos App using CLEAN, SOLID and MVVM architecture.
 
+## Video
+
+
+
+https://github.com/jmuthialu/Photos/assets/10758530/ea2379f8-a6da-4b9f-8b50-a063f461d676
+
+
+
 ## CLEAN architecture
 
 There are 3 layers to this architecture with inner layers not aware of the outer layer and code dependency always points inwards.
